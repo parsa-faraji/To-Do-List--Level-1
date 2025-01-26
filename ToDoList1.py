@@ -6,4 +6,7 @@
 # add date & time for tasks (optional)
 # add location for tasks (optional)
 
+tasks = {}
+ranked_tasks = []
+
 
